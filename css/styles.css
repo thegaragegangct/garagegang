@@ -465,7 +465,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ---- Quote section ---- */
-.quote-section { background: var(--white); }
+.quote-section { background: var(--white); scroll-margin-top: 30px;}
 .quote-box {
   max-width: var(--container-max);
   margin: 0 auto;
